@@ -5,19 +5,19 @@ function Privacy() {
   return (
     <Layout>
       <Head>
-        <title>Privacy Policy | Quinn Keast</title>
+        <title>Privacy Policy | Jen Goertzen</title>
       </Head>
       <div className="grid md:grid-cols-5">
         <div className="col-span-3 col-start-2 post-content">
           <h1>Privacy policy</h1>
           <p className="text-xl">
-            Quinn Keast-Wiatrowski operates the quinnkeast.com website, which
-            provides the SERVICE.
+            Jen Goertzen operates the jengoertzen.com website, which provides
+            the SERVICE.
           </p>
           <p>
             This page is used to inform website visitors regarding our policies
             with the collection, use, and disclosure of Personal Information if
-            anyone decided to use our Service, the quinnkeast.com website.
+            anyone decided to use our Service, the jengoertzen.com website.
           </p>
 
           <p>
@@ -30,7 +30,7 @@ function Privacy() {
 
           <p>
             The terms used in this Privacy Policy have the same meanings as in
-            our Terms and Conditions, which is accessible at quinnkeast.com,
+            our Terms and Conditions, which is accessible at jengoertzen.com,
             unless otherwise defined in this Privacy Policy.
           </p>
 
@@ -97,7 +97,7 @@ function Privacy() {
             policies, or practices of any third-party sites or services.
           </p>
 
-          <h3>Children's Privacy</h3>
+          <h3>Children’s Privacy</h3>
 
           <p>
             Our Services do not address anyone under the age of 13. We do not
