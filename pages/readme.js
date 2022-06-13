@@ -48,9 +48,6 @@ function ReadMe() {
             <li>
               <a href="#nuance">Nuance</a>
             </li>
-            <li>
-              <a href="#errata">Errata</a>
-            </li>
           </menu>
         </div>
         <div className="md:col-span-2 max-w-md">
