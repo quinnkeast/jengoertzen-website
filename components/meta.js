@@ -8,20 +8,20 @@ export default function Meta() {
       <title>{SITE_NAME}</title>
       <meta
         property="og:description"
-        content="Quinn Keast is a user experience & product designer. He solves interesting problems by putting people first—from product vision to the last 5%."
+        content="Jen Goertzen is a human experience designer & leader."
         key="description"
       />
       <meta property="og:title" content={SITE_NAME} key="title" />
-      <meta property="og:url" content="https://quinnkeast.com/" key="url" />
+      <meta property="og:url" content="https://jengoertzen.com/" key="url" />
       <meta property="og:type" content="website" key="type" />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} key="image" />
       <meta property="twitter:card" content="summary_large_image" />
-      <meta property="twitter:site" content="@quinnkeast" />
-      <meta property="twitter:creator" content="@quinnkeast" />
+      <meta property="twitter:site" content="@jengoertzen" />
+      <meta property="twitter:creator" content="@jengoertzen" />
       <meta property="twitter:title" content={SITE_NAME} key="twitter-title" />
       <meta
         property="twitter:description"
-        content="Quinn Keast is a user experience & product designer. He solves interesting problems by putting people first—from product vision to the last 5%."
+        content="Jen Goertzen is a human experience designer & leader."
         key="twitter-description"
       />
       <meta

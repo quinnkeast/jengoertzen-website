@@ -14,10 +14,6 @@ const menuItems = [
     path: "favourites",
   },
   {
-    label: "Reading",
-    path: "reading",
-  },
-  {
     label: "About",
     path: "about",
   },
@@ -49,7 +45,7 @@ export default function Header() {
     <>
       <div className="grid md:hidden py-4 px-4 bg-black">
         <Link href="/">
-          <a className="font-medium border-0 text-sm text-tan">Quinn Keast</a>
+          <a className="font-medium border-0 text-sm text-tan">Jen Goertzen</a>
         </Link>
         <div className="col-2">
           <menu className="flex flex-wrap gap-x-2 gap-y-0 list-none px-0 my-0 text-black-lighter text-sm text-tan leading-snug">
@@ -61,7 +57,7 @@ export default function Header() {
         <div className="hidden md:grid md:grid-cols-3 md:mt-16 mb-4 md:mb-24">
           <div className="col-1">
             <Link href="/">
-              <a className="font-medium border-0">Quinn Keast</a>
+              <a className="font-medium border-0">Jen Goertzen</a>
             </Link>
           </div>
           <div className="col-2">

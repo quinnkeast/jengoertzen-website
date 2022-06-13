@@ -22,17 +22,18 @@ export default function Index({ allFavourites }) {
         />
         <meta
           property="og:url"
-          content="https://quinnkeast.com/favourites"
+          content="https://jengoertzen.com/favourites"
           key="url"
         />
       </Head>
       <PageHeader>
         <h1 className="text-2xl md:text-4xl">Favourites</h1>
         <p className="text-base md:text-2xl mt-0 subpixel-antialiased">
-          “Man’s mind, once stretched by a new idea, never regains its original
-          dimensions.”
+          “I take pleasure in inquiring into things. I’ve never been content to
+          pass a stone without looking under it. And it is a black
+          disappointment to me that I can never see the far side of the moon.”
           <br />
-          —Oliver Wendell Holmes
+          —East of Eden, John Steinbeck
         </p>
       </PageHeader>
       <div className="grid md:grid-cols-5 border-t border-black border-opacity-10 mt-8 md:mt-12 pt-4 md:pt-8">

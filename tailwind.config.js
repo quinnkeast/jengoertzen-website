@@ -3,17 +3,20 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
-      sans: "CalibreWeb",
-      serif: "TiemposTextWeb",
+      sans: "Helvetica",
+      serif: "CooperBT",
     },
     extend: {
       colors: {
+        rose: {
+          DEFAULT: "#fcedea",
+        },
         tan: {
           DEFAULT: "#f9f0e0",
         },
         black: {
-          DEFAULT: "#25231b",
-          lighter: "#8F897C",
+          DEFAULT: "#381917",
+          lighter: "#967876",
         },
         yellow: {
           DEFAULT: "#F4AE23",

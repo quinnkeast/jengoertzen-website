@@ -25,7 +25,7 @@ export default function Index({ allPosts }) {
         />
         <meta
           property="og:url"
-          content="https://quinnkeast.com/writing"
+          content="https://jengoertzen.com/writing"
           key="url"
         />
       </Head>

@@ -21,16 +21,16 @@ function Speaking() {
         />
         <meta
           property="og:url"
-          content="https://quinnkeast.com/speaking"
+          content="https://jengoerzten.com/speaking"
           key="url"
         />
       </Head>
       <PageHeader>
         <h1 className="text-2xl md:text-4xl">Speaking</h1>
         <p className="text-base md:text-2xl mt-0 subpixel-antialiased">
-          I’ve had the honour to speak at events around the world on topics and
-          ideas that I find personally exciting or inspiring—and that I think
-          that you will, too.
+          I’ve had the honour to speak with teams, professionals, and students
+          around the world on topics and ideas that have shaped me as a human
+          and designer.
         </p>
       </PageHeader>
       <div className="grid md:grid-cols-3 border-t border-black border-opacity-10 mt-8 md:mt-12 pt-4 md:pt-8">
@@ -42,19 +42,23 @@ function Speaking() {
         <div className="md:col-span-2">
           <p>
             Speaker at{" "}
-            <a href="https://ecosia.org/">Ecosia Accessibility Day</a>
+            <a href="https://newmediamanitoba.com/" target="_blank">
+              New Media Manitoba
+            </a>
             <br />
-            <strong>
-              <Link href="/speaking/inclusion-as-a-catalyst-for-design">
-                “Inclusion as a Catalyst for Design”
-              </Link>
-            </strong>
+            <strong>“Growing Into Any Role You Want”</strong>
             <br />
-            June 2021
+            April 2021 – 
+            <a
+              href="https://www.youtube.com/watch?v=KtqYrIig7rI"
+              target="_blank"
+            >
+              Presentation recording on YouTube
+            </a>
           </p>
           <p>
             Roundtable at{" "}
-            <a href="https://uxcopenhagen.com/">
+            <a href="https://uxcopenhagen.com/" target="_blank">
               UX Copenhagen 2021: Commoning
             </a>
             <br />
@@ -66,104 +70,144 @@ function Speaking() {
             March 2021
           </p>
           <p>
-            Speaker at Content Strategy Lausanne
+            Presenter at{" "}
+            <a href="https://www.uxcampeurope.org/" target="_blank">
+              UX Camp Europe
+            </a>
             <br />
-            <strong>“Nobody’s a Copywriter, but Everybody Writes Copy”</strong>
+            <strong>
+              “Joining and knowing your new team: How to onboard yourself”
+            </strong>
             <br />
-            December 2020
-            <br />
-            <a href="https://www.youtube.com/watch?v=GQX_UCufzI4">
-              Watch on YouTube
+            June 2020 – 
+            <a
+              href="https://docs.google.com/document/d/1pTr_23SDf9BLDIoXhTTYp2U12uw58_DL27PBuM-qgpY/edit?usp=sharing"
+              target="_blank"
+            >
+              Template Script EN
+            </a>{" "}
+            /{" "}
+            <a
+              href="https://docs.google.com/document/d/1CmE8wy4vR82AaZ_J8l7oQEPN71J_-WDfJOQXCG8ViI4/edit"
+              target="_blank"
+            >
+              Template Script DE
             </a>
           </p>
           <p>
-            Speaker at <a href="https://www.uber.design/">Uber Design</a> Night
-            Amsterdam
+            Presenter at{" "}
+            <a href="https://techcircus.io/" target="_blank">
+              UX Crunch Berlin
+            </a>
+            <br />
+            <strong>“How to stop having the ‘Accessibility Talk’”</strong>
+            <br />
+            December 2019
+          </p>
+          <p>
+            Presenter at{" "}
+            <a href="http://ixdaberlin.de/" target="_blank">
+              IxDA Berlin
+            </a>
             <br />
             <strong>
-              “A Level Playing Field: What Sports, Hearing Loss, and Language
-              Can Teach Us About Better Communication in UX”
+              “Joining and knowing your new team: How to onboard yourself”
             </strong>
             <br />
-            June 2019
+            June 2020 – 
+            <a
+              href="https://docs.google.com/document/d/1pTr_23SDf9BLDIoXhTTYp2U12uw58_DL27PBuM-qgpY/edit?usp=sharing"
+              target="_blank"
+            >
+              Template Script EN
+            </a>{" "}
+            /{" "}
+            <a
+              href="https://docs.google.com/document/d/1CmE8wy4vR82AaZ_J8l7oQEPN71J_-WDfJOQXCG8ViI4/edit"
+              target="_blank"
+            >
+              Template Script DE
+            </a>
+          </p>
+          <p>
+            Co-presenter at Wire for{" "}
+            <a
+              href="https://www.fh-joanneum.at/content-strategie-und-digitale-kommunikation/master/"
+              target="_blank"
+            >
+              Content Graz
+            </a>{" "}
+            students
+            <br />
+            <strong>“How we design: Defining the problem space”</strong>
+            <br />
+            May 2019
+          </p>
+          <p>
+            Presenter at{" "}
+            <a href="https://marleyspoon.de" target="_blank">
+              Marley Spoon’s
+            </a>{" "}
+            Design Exchange
+            <br />
+            <strong>“Context matters: How to get better user feedback”</strong>
+            <br />
+            February 2019
+          </p>
+          <p>
+            Presenter at{" "}
+            <a href="https://wire.com/en/" target="_blank">
+              Wire
+            </a>
+            <br />
+            <strong>“Context matters: How to get better user feedback”</strong>
+            <br />
+            February 2019
           </p>
           <p>
             Speaker at{" "}
-            <a href="https://uxcopenhagen.com/">
-              UX Copenhagen 2019: Consent &amp; Privacy
+            <a href="https://rrc.mb.ca" target="_blank">
+              Red River College
             </a>
             <br />
             <strong>
-              “Navigating Our Evolving UX Landscape: Why and How to Create Your
-              Personal Code of Ethics”
+              “Ethics & Sustainable Design (or how to be a good human)”
             </strong>
-            <br />
-            March 2019
-            <br />
-            <a href="https://www.youtube.com/watch?v=D0EMMCoUYng">
-              Watch on YouTube
-            </a>
-          </p>
-          <p>
-            Workshop at <a href="https://marleyspoon.de">Marley Spoon</a>
-            <br />
-            <strong>
-              “Articulating Design Challenges with ‘How Might We’ Statements”
-            </strong>
-            <br />
-            January 2019
-          </p>
-          <p>
-            Speaker at UX Slovenia
-            <br />
-            <strong>
-              “Accessible Accessibility: How You Can Make More Inclusive
-              Products &amp; Experiences”
-            </strong>
-            <br />
-            December 2018
-          </p>
-          <p>
-            Speaker at IxDA Berlin: World Interaction Design Day
-            <br />
-            <strong>
-              “Breaking Down Unintended Barriers in Your Workplace for More
-              Inclusive Teams”
-            </strong>
-            <br />
-            September 2018
-            <br />
-            <a href="https://vimeo.com/309440740">Watch on Vimeo</a>
-          </p>
-          <p>
-            Speaker at <a href="https://rrc.mb.ca">Red River College</a>
-            <br />
-            <strong>“Designing Sustainability: Accessibility”</strong>
             <br />
             January 2018
           </p>
           <p>
-            Speaker at UX Winnipeg
+            Speaker at{" "}
+            <a href="https://rrc.mb.ca" target="_blank">
+              Red River College
+            </a>
             <br />
-            <strong>“Word Choices and Language in UX”</strong>
+            <strong>“A Day in the Life of a UX Designer”</strong>
             <br />
-            October 2017
+            November 2017
           </p>
           <p>
-            Co-Speaker with Jen Goertzen at North Forge Technology Exchange
+            Panel Organizer & Moderator at Prairie Dev Con
+            <br />
+            <strong>“Navigating Cross-Functional Team Dynamics”</strong>
+            <br />
+            June 2017
+          </p>
+          <p>
+            Co-Speaker with Quinn Keast at North Forge Technology Exchange
             <br />
             <strong>
-              “Putting UX to the Test: User Interviews &amp; Usability Testing”
+              “Putting UX to the Test: User Interviews & Usability Testing”
             </strong>
             <br />
             May 2017
           </p>
           <p>
-            Speaker at Ducks Unlimited Canada
+            Presenter at Prairie Dev Con
             <br />
-            <strong>“On User Experience”</strong>
+            <strong> “Stop Reacting to Mocks and Own Your Product”</strong>
             <br />
-            September 2015
+            April 2016
           </p>
         </div>
       </div>
@@ -174,10 +218,11 @@ function Speaking() {
         <div className="md:col-span-2">
           <h2>Interested in having me speak?</h2>
           <p>
-            I’m always interested in new speaking engagements on existing topics
-            or new ideas. If you’re interested in having me speak at your event
-            or run a workshop with your team, please get in touch at{" "}
-            <a href="mailto:hello@quinnkeast.com">hello@quinnkeast.com</a>!
+            The best way to learn is to teach and to listen. I’m always
+            interested in presenting or running workshops with teams, students,
+            and anyone looking to grow. If you’re interested, please get in
+            touch at{" "}
+            <a href="mailto:jen@jengoertzen.com">jen@jengoertzen.com</a>.
           </p>
         </div>
       </div>

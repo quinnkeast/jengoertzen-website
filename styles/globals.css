@@ -8,7 +8,7 @@
   }
 
   body {
-    @apply text-black bg-tan;
+    @apply text-black bg-rose font-serif font-light;
   }
 
   p {
@@ -16,23 +16,23 @@
   }
 
   h1 {
-    @apply text-4xl font-medium leading-none tracking-tight mt-8 mb-2;
+    @apply text-4xl font-light leading-none tracking-tight mt-8 mb-2;
   }
 
   h2 {
-    @apply text-2xl font-medium mt-4;
+    @apply text-2xl font-light mt-4;
   }
 
   h3 {
-    @apply text-xl font-medium mt-4;
+    @apply text-xl font-light mt-4;
   }
 
   h4 {
-    @apply text-black-lighter mt-4;
+    @apply text-black-lighter font-light mt-4;
   }
 
   h5 {
-    @apply text-black-lighter font-medium mt-2;
+    @apply text-black-lighter font-light mt-2;
   }
 
   strong {
@@ -70,10 +70,10 @@
   hr {
     @apply mt-8 mb-8 opacity-10 border-black;
   }
-  
+
   pre {
     font-size: 0.65rem;
-    
+
     @media (min-width: 768px) {
       font-size: 0.8rem;
     }
@@ -85,15 +85,15 @@
 
   figcaption {
     font-family: "CalibreWeb";
-    @apply mb-8 mt-2 text-xs;  
+    @apply mb-8 mt-2 text-xs;
   }
-  
+
   .post-header p {
   }
 
   .post-content p,
   .post-content li {
-    @apply font-serif text-xs md:text-sm leading-relaxed md:leading-relaxed;
+    @apply text-xs md:text-sm leading-relaxed md:leading-relaxed;
   }
 
   .post-content h2,
@@ -156,45 +156,28 @@
 }
 
 @font-face {
-  font-family: "CalibreWeb";
+  font-family: "CooperBT";
   font-style: normal;
-  font-weight: 400;
-  src: url("/fonts/CalibreWeb-Regular.woff") format("woff"),
-    url("/fonts/CalibreWeb-Regular.woff2") format("woff2");
+  font-weight: 300;
+  src: url("/fonts/39ACFE_0_0.eot") format("eot"),
+    url("/fonts/39ACFE_0_0.woff") format("woff"),
+    url("/fonts/39ACFE_0_0.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: "CalibreWeb";
-  font-style: normal;
-  font-weight: 500;
-  src: url("/fonts/CalibreWeb-Semibold.woff") format("woff"),
-    url("/fonts/CalibreWeb-Semibold.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "TiemposTextWeb";
-  font-style: normal;
-  font-weight: 400;
-  src: url("/fonts/TiemposTextWeb-Regular.woff") format("woff");
-}
-
-@font-face {
-  font-family: "TiemposTextWeb";
+  font-family: "CooperBT";
   font-style: italic;
-  font-weight: 400;
-  src: url("/fonts/TiemposTextWeb-RegularItalic.woff") format("woff");
+  font-weight: 300;
+  src: url("/fonts/39ACFE_1_0.eot") format("eot"),
+    url("/fonts/39ACFE_1_0.woff") format("woff"),
+    url("/fonts/39ACFE_1_0.woff2") format("woff2");
 }
 
 @font-face {
-  font-family: "TiemposTextWeb";
+  font-family: "CooperBT";
   font-style: normal;
   font-weight: 500;
-  src: url("/fonts/TiemposTextWeb-Semibold.woff") format("woff");
-}
-
-@font-face {
-  font-family: "TiemposTextWeb";
-  font-style: italic;
-  font-weight: 500;
-  src: url("/fonts/TiemposTextWeb-SemiboldItalic.woff") format("woff");
+  src: url("/fonts/39ACFE_2_0.eot") format("eot"),
+    url("/fonts/39ACFE_2_0.woff") format("woff"),
+    url("/fonts/39ACFE_2_0.woff2") format("woff2");
 }
