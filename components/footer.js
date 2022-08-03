@@ -8,7 +8,7 @@ export default function Footer() {
       </div>
       <div className="md:col-span-2 mb-4 md:mb-8">
         <p className="text-base md:text-2xl mb-2 md:mb-12 font-medium">
-          <a href="mailto:jen@jengoertzen.com">jen@jengoertzen.com</a>
+          <a href="mailto:jen@caribou.co">jen@caribou.co</a>
         </p>
         <div className="grid md:grid-cols-3">
           <div className="col-span-1">
