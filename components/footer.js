@@ -50,14 +50,10 @@ export default function Footer() {
         <span className="mr-4">© Jen Goertzen</span>
         <menu className="list-none m-0 p-0 grid grid-flow-col gap-2">
           <li>
-            <Link href="/impressum">
-              <a>Impressum</a>
-            </Link>
+            <Link href="/impressum">Impressum</Link>
           </li>
           <li>
-            <Link href="/privacy">
-              <a>Privacy Policy</a>
-            </Link>
+            <Link href="/privacy">Privacy Policy</Link>
           </li>
         </menu>
       </div>

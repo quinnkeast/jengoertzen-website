@@ -216,10 +216,7 @@ function About() {
             </li>
             <li>
               Reading: Latest reads posted on{" "}
-              <Link href="/favourites">
-                <a>Favourites</a>
-              </Link>
-              .
+              <Link href="/favourites">Favourites</Link>.
             </li>
           </ul>
           <p>
