@@ -91,13 +91,13 @@
   .post-header p {
   }
 
-  .post-content p,
-  .post-content li {
+  .post-content > p,
+  .post-content > li {
     @apply text-xs md:text-sm leading-relaxed md:leading-relaxed;
   }
 
-  .post-content h2,
-  .post-content h3 {
+  .post-content > h2,
+  .post-content > h3 {
     @apply leading-tight tracking-tight;
   }
 

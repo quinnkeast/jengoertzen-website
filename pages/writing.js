@@ -34,6 +34,9 @@ export default function Index({ allPosts }) {
         <p className="leading-snug text-base md:text-2xl subpixel-antialiased mt-0 md:mt-2">
           A collection of thinking on user experience, design, and business.
         </p>
+        <p className="italic">
+        I'm transferring pieces from my archive to this page. If you‘re looking for a piece that isn't currently here, contact me at <a href="mailto:jen@caribou.co">jen@caribou.co</a>.
+        </p>
       </PageHeader>
       <div className="grid md:grid-cols-3 border-t border-black border-opacity-10 mt-6 md:mt-12 pt-0 post-list">
         <PostItem post={heroPost} hero={true} />

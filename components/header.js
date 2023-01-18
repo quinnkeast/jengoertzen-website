@@ -1,10 +1,10 @@
 import Link from "next/link";
 
 const menuItems = [
-  /*{
+  {
     label: "Writing",
     path: "writing",
-  },*/
+  },
   {
     label: "Speaking",
     path: "speaking",
@@ -13,10 +13,10 @@ const menuItems = [
     label: "Favourites",
     path: "favourites",
   },
-  {
+  /*{
     label: "Reading",
     path: "reading",
-  },
+  },*/
   {
     label: "About",
     path: "about",

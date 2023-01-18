@@ -50,11 +50,9 @@ function About() {
           </p>
 
           <p>
-            User experience marries my two passions of problem solving and
-            observing human behaviour. I’m able to do both everyday—then watch
-            people interact with the solutions so I can further improve on my
-            ideas. Above all, I aim to do good. My work exists to support people
-            in their endeavours, however big or small.
+            Above all, I aim to do good. My work exists to support people
+            in their endeavours, no matter how big or small. Read more about what drives me and how I work on my {" "}
+            <Link href="/readme">ReadMe</Link>.
           </p>
 
           <p>
@@ -88,7 +86,7 @@ function About() {
             >
               Marvel App Blog
             </a>
-            . I’m also a regular contributor to{" "}
+            . I’ve also been a regular contributor to{" "}
             <a href="https://uxdesign.cc/@jennifergoertzen" target="_blank">
               UX Collective on Medium
             </a>
@@ -192,12 +190,12 @@ function About() {
             distances. I’ve completed an Ironman (140.6) as well as three—and
             still counting—half Ironman (70.3) races.
           </p>
-
-          <strong>More traditional hobbies:</strong>
+          <br />
+          <strong>My other (perhaps more traditional) hobbies:</strong>
 
           <ul>
             <li>
-              Drawing: Find my work at{" "}
+              Creating art: Find my work on display at{" "}
               <a href="http://www.maque.ca/" target="_blank">
                 Máquè
               </a>{" "}
@@ -205,7 +203,10 @@ function About() {
               <a href="http://www.enotecarestaurant.ca/" target="_blank">
                 Enoteca
               </a>
-              .
+              . Follow my latest paintings on {" "}
+              <a href="https://www.instagram.com/jengoertzen/" target="_blank">
+                Instagram
+              </a>
             </li>
             <li>
               Baking bread: My go-to book is{" "}
@@ -215,16 +216,13 @@ function About() {
               .
             </li>
             <li>
-              Reading: Latest reads posted on{" "}
+              Reading: Latest reads posted in{" "}
+              <Link href="/reading">Reading</Link> and those I most recommend in {" "}
               <Link href="/favourites">Favourites</Link>.
             </li>
           </ul>
           <p>
-            You can follow my "hobbies" on{" "}
-            <a href="https://www.instagram.com/jengoertzen/" target="_blank">
-              Instagram
-            </a>
-            .
+            I love to learn and I can’t keep it to only one topic. Ask me how pottery and learning German are going, if you’re keen.
           </p>
         </div>
       </div>

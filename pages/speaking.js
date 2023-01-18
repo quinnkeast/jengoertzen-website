@@ -29,8 +29,8 @@ function Speaking() {
         <h1 className="text-2xl md:text-4xl">Speaking</h1>
         <p className="text-base md:text-2xl mt-0 subpixel-antialiased">
           I’ve had the honour to speak with teams, professionals, and students
-          around the world on topics and ideas that have shaped me as a human
-          and designer.
+          around the world on topics and ideas that have shaped me as a human, designer,
+          and leader.
         </p>
       </PageHeader>
       <div className="grid md:grid-cols-3 border-t border-black border-opacity-10 mt-8 md:mt-12 pt-4 md:pt-8">
@@ -42,13 +42,23 @@ function Speaking() {
         <div className="md:col-span-2">
           <p>
             Speaker at{" "}
+            <a href="https://www.meetup.com/berlin-product-designers/" target="_blank">
+              Berlin Product Designers Meetup
+            </a>
+            <br />
+            <strong>“To design for no-code: We need to stop talking about ‘no code’.”</strong>
+            <br />
+            March 2022 
+          </p>
+          <p>
+            Speaker at{" "}
             <a href="https://newmediamanitoba.com/" target="_blank">
               New Media Manitoba
             </a>
             <br />
             <strong>“Growing Into Any Role You Want”</strong>
             <br />
-            April 2021 – 
+            April 2021 
             <a
               href="https://www.youtube.com/watch?v=KtqYrIig7rI"
               target="_blank"
