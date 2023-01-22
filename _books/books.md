@@ -88,14 +88,14 @@
   - title: Where the Crawdads Sing
     author: Delia Owens
     thoughts: Beautiful, inhaled it. Will never see the movie.
-- year: 2021
-  books:
-  - title: The Lost Spells
-    author: Robert Macfarlane
   - title: The Amber Spyglass
     author: Philip Pullman
   - title: The Subtle Knife
     author: Philip Pullman
+- year: 2021
+  books:
+  - title: The Lost Spells
+    author: Robert Macfarlane
   - title: The Golden Compass
     author: Philip Pullman
   - title: Stories of Your Life and Others
