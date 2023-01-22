@@ -321,7 +321,7 @@
   - title: Desert Solitaire
     author: Edward Abbey
     thoughts: Beautiful imagery, though some elements showed their age.
-- year: Time unknkown
+- year: Time unknown
   books:
   - title: The Dark Forest
     author: Cixin Liu
