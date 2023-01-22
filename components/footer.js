@@ -23,6 +23,9 @@ export default function Footer() {
                 </a>
               </li>
               <li>
+              <p className="text-xs italic m-0">I'm not active on the following platforms, but the history can still be valuable (or at least interesting):</p>
+              </li>
+              <li>
                 <a href="http://twitter.com/jengoertzen" target="_blank">
                   Twitter
                 </a>

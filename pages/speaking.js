@@ -124,7 +124,7 @@ function Speaking() {
               “Joining and knowing your new team: How to onboard yourself”
             </strong>
             <br />
-            June 2020 – 
+            June 2019 – 
             <a
               href="https://docs.google.com/document/d/1pTr_23SDf9BLDIoXhTTYp2U12uw58_DL27PBuM-qgpY/edit?usp=sharing"
               target="_blank"

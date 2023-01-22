@@ -22,14 +22,14 @@ export default function Reading({ booksByYear }) {
         />
         <meta
           property="og:url"
-          content={`https://quinnkeast.com/reading`}
+          content={`https://jengoertzen.com/reading`}
           key="url"
         />
       </Head>
       <PageHeader>
         <h1 className="text-2xl md:text-4xl">Reading list</h1>
         <p className="text-base md:text-2xl mt-0 subpixel-antialiased">
-          What I’m reading and my opinions and all that.
+          What I’m reading and some of what I’ve read.
         </p>
       </PageHeader>
       <div className="grid md:grid-cols-5 border-t border-black border-opacity-10 mt-8 md:mt-12 pt-4 md:pt-8">
@@ -44,16 +44,13 @@ export default function Reading({ booksByYear }) {
               <table className="table-fixed w-full text-sm mt-3 mb-6">
                 <thead className="hidden md:table-header-group">
                   <tr>
-                    <th className="w-full md:w-3/12 text-left pb-2 font-medium">
+                    <th className="w-full md:w-4/12 text-left pb-2 font-medium">
                       Title
                     </th>
                     <th className="w-full md:w-3/12 text-left pb-2 font-medium">
                       Author
                     </th>
-                    <th className="w-full md:w-2/12 text-left pb-2 font-medium">
-                      Date
-                    </th>
-                    <th className="w-full md:w-4/12 text-left pb-2 font-medium">
+                    <th className="w-full md:w-5/12 text-left pb-2 font-medium">
                       Thoughts
                     </th>
                   </tr>
@@ -81,7 +78,6 @@ export default function Reading({ booksByYear }) {
                         <span className="md:hidden">by </span>
                         {book.author}
                       </td>
-                      <td className="md:pt-2 md:pb-2 pr-2">{book.date}</td>
                       <td className="md:pt-2 pb-2">{book.thoughts}</td>
                     </tr>
                   ))}
@@ -92,8 +88,7 @@ export default function Reading({ booksByYear }) {
         ))}
         <div className="col-span-5 mt-4 flex">
           <small className="text-black-lighter">
-            Missing thoughts are just me not remembering exactly what I thought
-            at the time.
+            Where I haven't included “Thoughts”, it‘s because I can‘t recall my impressions of the book.
           </small>
         </div>
       </div>
