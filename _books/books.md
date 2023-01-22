@@ -120,7 +120,7 @@
     date: September
     thoughts: Changed how I look at my work and at life.
   - title: Coaching for Performance
-    author: John Whitemore
+    author: John Whitmore
   - title: Billy Summers
     author: Stephen King
     date: September
