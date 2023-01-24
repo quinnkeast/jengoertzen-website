@@ -5,6 +5,9 @@
   - title: The Joy of Abstraction
     author: Eugenia Cheng
     reading: true
+  - title: On the Back of the Turtle
+    author: Thomas King
+    reading: true
   - title: Ordinary Monsters
     author: J. M. Miro
     reading: true
