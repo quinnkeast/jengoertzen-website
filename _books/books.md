@@ -5,9 +5,12 @@
   - title: The Joy of Abstraction
     author: Eugenia Cheng
     reading: true
+  - title: The Grapes of Wrath
+    author: John Steinbeck
+    reading: true
   - title: The Back of the Turtle
     author: Thomas King
-    reading: true
+    thoughts: I felt the world reflected back at me, thoughtfully, kindly, and truthfully.
   - title: Ordinary Monsters
     author: J. M. Miro
     thoughts: It crescendoed really well.
