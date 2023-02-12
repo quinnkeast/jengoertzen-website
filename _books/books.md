@@ -17,7 +17,6 @@
   - title: Ordinary Monsters
     author: J. M. Miro
     thoughts: It crescendoed really well.
-    reading: true
   - title: Houseboat Chronicles
     author: Jake MacDonald
     thoughts: A comfortable and comforting read, nostalgic, imagery of a place that feels like home.
