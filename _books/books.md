@@ -8,6 +8,9 @@
   - title: The Grapes of Wrath
     author: John Steinbeck
     reading: true
+  - title: Fairy Tale
+    author: Stephen King
+    reading: true
   - title: The Back of the Turtle
     author: Thomas King
     thoughts: I felt the world reflected back at me, thoughtfully, kindly, and truthfully.
