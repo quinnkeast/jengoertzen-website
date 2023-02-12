@@ -300,6 +300,8 @@
   - title: Jonathon Strange & Mr Norrell
     author: Susanna Clarke
     thoughts: Fantastic story, possibly multiple books in one.
+- year: 2019 and earlier
+  books:
   - title: Moby Dick
     author: Herman Melville
   - title: The Obelisk Gate
@@ -324,6 +326,9 @@
   - title: Redshirts
     author: John Scalzi
     thoughts: This one wasn't for me.
+  - title: The Unconsoled
+    author: Kazuo Ishiguro
+    thoughts: This book opened my eyes to the fact that I needed to quit my job.
   - title: Old Man's War
     author: John Scalzi
     thoughts: The book where I discovered John Scalzi and then needed to read everything he wrote.
@@ -333,8 +338,9 @@
   - title: Desert Solitaire
     author: Edward Abbey
     thoughts: Beautiful imagery, though some elements showed their age.
-- year: Time unknown
-  books:
+  - title: The Sparrow
+    author: Mary Dorai Russell
+    thoughts: Gripping, unsettling.
   - title: The Dark Forest
     author: Cixin Liu
     thoughts: Fuck. Favourite of the trilogy.
@@ -343,9 +349,6 @@
     thoughts: When I decided I needed to read everything by David Mitchell.
   - title: The Name of the Wind
     author: Patrick Rothfuss
-  - title: The Sparrow
-    author: Mary Dorai Russell
-    thoughts: Gripping, unsettling.
   - title: The Bird King
     author: G. Willow Wilson
   - title: Travels with Charley
