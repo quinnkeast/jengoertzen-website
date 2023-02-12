@@ -175,6 +175,9 @@
   - title: Seveneves
     author: Neal Stephenson
     thoughts: Could've ended earlier—so I stopped early.
+  - title: The Uncertainty Mindset
+    author: Vaughn Tan
+    thoughts: Changed how I look at uncertainty, not knowing, and then moving through it.
   - title: Contact
     author: Carl Sagan
   - title: Mistborn
