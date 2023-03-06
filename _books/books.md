@@ -11,7 +11,7 @@
   - title: Leech
     author: Hiron Ennes
     reading: true
-  - title: Literature: Why it matters
+  - title: Literature, why it matters
     author: Robert Eaglestone
     reading: true
   - title: The word for world is forest
