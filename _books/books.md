@@ -8,9 +8,16 @@
   - title: The Grapes of Wrath
     author: John Steinbeck
     reading: true
+  - title: Leech
+    author: Hiron Ennes
+    reading: true
+  - title: Literature: Why it matters
+    author: Robert Eaglestone
+    reading: true
+  - title: The word for world is forest
+    author: Ursula K. Le Guin
   - title: Fairy Tale
     author: Stephen King
-    reading: true
   - title: The Back of the Turtle
     author: Thomas King
     thoughts: I felt the world reflected back at me, thoughtfully, kindly, and truthfully.
