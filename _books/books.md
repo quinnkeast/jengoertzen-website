@@ -16,8 +16,10 @@
     reading: true
   - title: The word for world is forest
     author: Ursula K. Le Guin
+    thoughts: It's all it needs to be. New interpretations of dreaming and of gods.
   - title: Fairy Tale
     author: Stephen King
+    thoughts: Different from other King novels I've read. Good “before bed” read. 
   - title: The Back of the Turtle
     author: Thomas King
     thoughts: I felt the world reflected back at me, thoughtfully, kindly, and truthfully.
