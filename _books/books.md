@@ -5,16 +5,16 @@
   - title: The Joy of Abstraction
     author: Eugenia Cheng
     reading: true
+  - title: Family Lexicon
+    author: Natalia Ginzburg
+    reading: true
   - title: The Grapes of Wrath
     author: John Steinbeck
-    reading: true
+    thoughts: I took so many things from this book. I need more time to simmer on it.
   - title: Leech
     author: Hiron Ennes
-    reading: true
-  - title: Literature, why it matters
-    author: Robert Eaglestone
-    reading: true
-  - title: The word for world is forest
+    thoughts: It was clever how you needed to put the pieces together yourself.
+  - title: The Word For World is Forest
     author: Ursula K. Le Guin
     thoughts: It's all it needs to be. New interpretations of dreaming and of gods.
   - title: Fairy Tale
