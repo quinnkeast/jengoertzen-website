@@ -31,7 +31,7 @@
     thoughts: A comfortable and comforting read, nostalgic, imagery of a place that feels like home.
   - title: The Truth About Stories
     author: Thomas King
-    thoughts: “Just don't say in years to come that you would have lived your life differently if only had heard this story. You've heard it now.”
+    thoughts: “Just don't say in years to come that you would have lived your life differently if only you had heard this story. You've heard it now.”
 - year: 2022
   books:
   - title: Braiding Sweetgrass
