@@ -8,6 +8,9 @@
   - title: Family Lexicon
     author: Natalia Ginzburg
     reading: true
+  - title: From the Wreck
+    author: Jane Rawson
+    thoughts: Quiet, strange, with heart.
   - title: The Grapes of Wrath
     author: John Steinbeck
     thoughts: I took so many things from this book. I need more time to simmer on it.
