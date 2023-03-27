@@ -5,9 +5,12 @@
   - title: The Joy of Abstraction
     author: Eugenia Cheng
     reading: true
+  - title: The Coral Bones
+    author: E. J. Swift
+    reading: true
   - title: Family Lexicon
     author: Natalia Ginzburg
-    reading: true
+    thoughts: Very different narrative style than what I'm used to. It was well suited to remembering family.
   - title: From the Wreck
     author: Jane Rawson
     thoughts: Quiet, strange, with heart.
