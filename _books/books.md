@@ -5,8 +5,18 @@
   - title: The Joy of Abstraction
     author: Eugenia Cheng
     reading: true
+    thoughts: The book is open, but I've paused reading it.
   - title: The Coral Bones
     author: E. J. Swift
+    reading: true
+  - title: Her Body and Other Parties
+    author: Carmen Maria Machado
+    reading: true
+  - title: On The Shortness of Life: Life Is Long If You Know How To Use It
+    author: Seneca
+    reading: true
+  - title: The Creative Act: A Way of Being
+    author: Rick Rubin
     reading: true
   - title: Family Lexicon
     author: Natalia Ginzburg
