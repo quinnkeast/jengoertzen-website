@@ -4,8 +4,8 @@
   books:
   - title: The Joy of Abstraction
     author: Eugenia Cheng
-    reading: true
     thoughts: The book is open, but I've paused reading it.
+    reading: true
   - title: The Coral Bones
     author: E. J. Swift
     reading: true
