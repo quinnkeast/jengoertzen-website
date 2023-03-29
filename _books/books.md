@@ -12,7 +12,7 @@
   - title: Her Body and Other Parties
     author: Carmen Maria Machado
     reading: true
-  - title: On The Shortness of Life: Life Is Long If You Know How To Use It
+  - title: On The Shortness of Life
     author: Seneca
     reading: true
   - title: The Creative Act
