@@ -4,6 +4,7 @@
   books:
   - title: The Joy of Abstraction
     author: Eugenia Cheng
+    thoughts: The book is open but I've paused reading it.
     reading: true
   - title: The Coral Bones
     author: E. J. Swift
@@ -14,7 +15,7 @@
   - title: On The Shortness of Life: Life Is Long If You Know How To Use It
     author: Seneca
     reading: true
-  - title: The Creative Act: A Way of Being
+  - title: The Creative Act
     author: Rick Rubin
     reading: true
   - title: Family Lexicon
