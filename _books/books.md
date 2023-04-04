@@ -18,6 +18,9 @@
   - title: The Creative Act
     author: Rick Rubin
     reading: true
+  - title: In Limbo
+    author: Deb JJ Lee
+    thoughts: Different from what I expected and a different perspective on growing up than I've seen before.
   - title: Family Lexicon
     author: Natalia Ginzburg
     thoughts: Very different narrative style than what I'm used to. It was well suited to remembering family.
