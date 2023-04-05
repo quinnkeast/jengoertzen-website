@@ -9,15 +9,15 @@
   - title: The Coral Bones
     author: E. J. Swift
     reading: true
-  - title: Her Body and Other Parties
-    author: Carmen Maria Machado
-    reading: true
   - title: On The Shortness of Life
     author: Seneca
     reading: true
   - title: The Creative Act
     author: Rick Rubin
     reading: true
+  - title: Her Body and Other Parties
+    author: Carmen Maria Machado
+    thoughts: Some new and some uncomfortable ideas. I think short stories are my newly preferred public transit reading material.
   - title: In Limbo
     author: Deb JJ Lee
     thoughts: Different from what I expected and a different perspective on growing up than I've seen before.
