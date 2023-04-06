@@ -6,15 +6,15 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it.
     reading: true
-  - title: The Coral Bones
-    author: E. J. Swift
-    reading: true
   - title: On The Shortness of Life
     author: Seneca
     reading: true
   - title: The Creative Act
     author: Rick Rubin
     reading: true
+  - title: The Coral Bones
+    author: E. J. Swift
+    thoughts: A good read, though helplessness around climate topics can't be avoided.
   - title: Her Body and Other Parties
     author: Carmen Maria Machado
     thoughts: Some new and some uncomfortable ideas. I think short stories are my newly preferred public transit reading material.
