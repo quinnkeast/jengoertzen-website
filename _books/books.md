@@ -9,6 +9,9 @@
   - title: On The Shortness of Life
     author: Seneca
     reading: true
+  - title: City of Last Chances
+    author: Adrian Tchaikovsky
+    reading: true
   - title: The Creative Act
     author: Rick Rubin
     reading: true
