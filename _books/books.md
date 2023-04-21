@@ -6,8 +6,8 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it.
     reading: true
-  - title: Sula
-    author: Toni Morrison
+  - title: The Adventures of Amina Al-Sirafi
+    author: Shannon Chakraborty
     reading: true
   - title: On The Shortness of Life
     author: Seneca
@@ -18,6 +18,9 @@
   - title: The Creative Act
     author: Rick Rubin
     reading: true
+  - title: Sula
+    author: Toni Morrison
+    thoughts: Powerful story. First time I've read Toni Morrison and I'll be looking for more.
   - title: The Coral Bones
     author: E. J. Swift
     thoughts: A good read, though helplessness around climate topics can't be avoided.
