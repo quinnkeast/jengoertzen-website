@@ -6,18 +6,23 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it.
     reading: true
-  - title: The Adventures of Amina Al-Sirafi
-    author: Shannon Chakraborty
-    reading: true
-  - title: On The Shortness of Life
-    author: Seneca
-    reading: true
-  - title: City of Last Chances
-    author: Adrian Tchaikovsky
+  - title: Of Mice and Men
+    author: John Steinbeck
     reading: true
   - title: The Creative Act
     author: Rick Rubin
     reading: true
+  - title: On The Shortness of Life
+    author: Seneca
+    reading: true
+  - title: The Bluest Eye
+    author: Toni Morrison
+    thoughts: New perspectives, new ways of seeing.
+  - title: The Adventures of Amina Al-Sirafi
+    author: Shannon Chakraborty
+    thoughts: The book I've enjoyed the most in a long while. Inhaled it.
+  - title: City of Last Chances
+    author: Adrian Tchaikovsky
   - title: Sula
     author: Toni Morrison
     thoughts: Powerful story. First time I've read Toni Morrison and I'll be looking for more.
