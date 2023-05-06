@@ -12,6 +12,11 @@
   - title: On The Shortness of Life
     author: Seneca
     reading: true
+  - title: Sensitive
+    author: Jenn Granneman and Andre Sólo
+  - title: Tress of the Emerald Sea
+    author: Brandon Sanderson
+    reading: true
   - title: The Housekeeper and the Professor
     author: Yoko Ogawa
     thoughts: A peaceful read.
