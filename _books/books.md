@@ -14,6 +14,7 @@
     reading: true
   - title: Sensitive
     author: Jenn Granneman and Andre Sólo
+    reading: true
   - title: Tress of the Emerald Sea
     author: Brandon Sanderson
     reading: true
