@@ -6,15 +6,17 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it.
     reading: true
-  - title: Of Mice and Men
-    author: John Steinbeck
-    reading: true
   - title: The Creative Act
     author: Rick Rubin
     reading: true
   - title: On The Shortness of Life
     author: Seneca
     reading: true
+  - title: The Housekeeper and the Professor
+    author: Yoko Ogawa
+    thoughts: A peaceful read.
+  - title: Of Mice and Men
+    author: John Steinbeck
   - title: The Bluest Eye
     author: Toni Morrison
     thoughts: New perspectives, new ways of seeing.
