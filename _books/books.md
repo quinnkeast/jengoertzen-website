@@ -12,6 +12,9 @@
   - title: On The Shortness of Life
     author: Seneca
     reading: true
+  - title: Fifty Sounds
+    author: Polly Barton
+    reading: true
   - title: Sensitive
     author: Jenn Granneman and Andre Sólo
     reading: true
