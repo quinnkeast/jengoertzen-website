@@ -6,21 +6,21 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it.
     reading: true
+  - title: Hell Bent
+    author: Leigh Bardugo
+    reading: true
   - title: The Creative Act
     author: Rick Rubin
     reading: true
   - title: On The Shortness of Life
     author: Seneca
     reading: true
-  - title: Fifty Sounds
-    author: Polly Barton
-    reading: true
   - title: Sensitive
     author: Jenn Granneman and Andre Sólo
     reading: true
-  - title: Tress of the Emerald Sea
-    author: Brandon Sanderson
-    reading: true
+  - title: Fifty Sounds
+    author: Polly Barton
+    thoughts: I found new ways to articulate living in a country where you don't speak the language.
   - title: The Housekeeper and the Professor
     author: Yoko Ogawa
     thoughts: A peaceful read.
