@@ -20,7 +20,7 @@
     reading: true
   - title: Fifty Sounds
     author: Polly Barton
-    thoughts: I found new ways to articulate living in a country where you don't speak the language.
+    thoughts: I found new ways to articulate the experience of living in a country where you don't speak the language.
   - title: The Housekeeper and the Professor
     author: Yoko Ogawa
     thoughts: A peaceful read.
