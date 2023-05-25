@@ -6,8 +6,8 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it.
     reading: true
-  - title: Hell Bent
-    author: Leigh Bardugo
+  - title: The Ferryman
+    author: Justin Cronin
     reading: true
   - title: The Creative Act
     author: Rick Rubin
@@ -18,6 +18,9 @@
   - title: Sensitive
     author: Jenn Granneman and Andre Sólo
     reading: true
+  - title: Hell Bent
+    author: Leigh Bardugo
+    thoughts: A welcome continuation of Ninth House, fell into and inhaled it.
   - title: Fifty Sounds
     author: Polly Barton
     thoughts: I found new ways to articulate the experience of living in a country where you don't speak the language.
