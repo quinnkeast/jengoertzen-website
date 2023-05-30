@@ -9,6 +9,9 @@
   - title: The Ferryman
     author: Justin Cronin
     reading: true
+  - title: Recursion
+    author: Justin Cronin
+    reading: Blake Crouch
   - title: The Creative Act
     author: Rick Rubin
     reading: true
@@ -17,7 +20,7 @@
     reading: true
   - title: Sensitive
     author: Jenn Granneman and Andre Sólo
-    reading: true
+    thoughts: I related to many parts of this book. Much to reflect on and take into different areas of my life, especially work. 
   - title: Hell Bent
     author: Leigh Bardugo
     thoughts: A welcome continuation of Ninth House, fell into and inhaled it.
