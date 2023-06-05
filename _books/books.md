@@ -6,8 +6,8 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it.
     reading: true
-  - title: The Ferryman
-    author: Justin Cronin
+  - title: The Calculating Stars
+    author: Mary Robinette Kowal
     reading: true
   - title: Recursion
     author: Justin Cronin
@@ -18,6 +18,8 @@
   - title: On The Shortness of Life
     author: Seneca
     reading: true
+  - title: The Ferryman
+    author: Justin Cronin
   - title: Sensitive
     author: Jenn Granneman and Andre Sólo
     thoughts: I related to many parts of this book. Much to reflect on and take into different areas of my life, especially work. 
@@ -32,6 +34,7 @@
     thoughts: A peaceful read.
   - title: Of Mice and Men
     author: John Steinbeck
+    thoughts: It was interesting to read Steinbeck in a different format. Same voice, different space.
   - title: The Bluest Eye
     author: Toni Morrison
     thoughts: New perspectives, new ways of seeing.
