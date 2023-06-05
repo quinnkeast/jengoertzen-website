@@ -10,8 +10,8 @@
     author: Mary Robinette Kowal
     reading: true
   - title: Recursion
-    author: Justin Cronin
-    reading: Blake Crouch
+    author: Blake Crouch
+    reading: true
   - title: The Creative Act
     author: Rick Rubin
     reading: true
