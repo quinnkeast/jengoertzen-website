@@ -6,18 +6,30 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it.
     reading: true
-  - title: The Calculating Stars
-    author: Mary Robinette Kowal
+  - title: The Practice
+    author: Seth Godin
     reading: true
-  - title: Recursion
-    author: Blake Crouch
+  - title: The Road
+    author: Cormac McCarthy
+    reading: true
+  - title: The Fated Sky
+    author: Mary Robinette Kowal
     reading: true
   - title: The Creative Act
     author: Rick Rubin
+    thoughts: The book is open but I've paused reading it.
     reading: true
   - title: On The Shortness of Life
     author: Seneca
+    thoughts: The book is open but I've paused reading it.
     reading: true
+  - title: The Book That Wouldn't Burn
+    author: Mark Lawrence
+  - title: Recursion
+    author: Blake Crouch
+  - title: The Calculating Stars
+    author: Mary Robinette Kowal
+    thoughts: Really enjoyed it while at the same time found moments in it infruriating. Well researched, well written.
   - title: The Ferryman
     author: Justin Cronin
   - title: Sensitive
