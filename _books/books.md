@@ -12,9 +12,6 @@
   - title: The Road
     author: Cormac McCarthy
     reading: true
-  - title: The Fated Sky
-    author: Mary Robinette Kowal
-    reading: true
   - title: The Creative Act
     author: Rick Rubin
     thoughts: The book is open but I've paused reading it.
@@ -23,6 +20,9 @@
     author: Seneca
     thoughts: The book is open but I've paused reading it.
     reading: true
+  - title: The Fated Sky
+    author: Mary Robinette Kowal
+    thoughts: Felt good to be back in these books. Inhaled the book.
   - title: The Book That Wouldn't Burn
     author: Mark Lawrence
   - title: Recursion
