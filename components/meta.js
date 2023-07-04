@@ -6,7 +6,7 @@ export default function Meta() {
     <Head>
       <script
         src="https://cdn.usefathom.com/script.js" 
-        data-site={process.env.FATHOM} 
+        data-site="ARJRAQLM" 
         defer
       ></script>
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
