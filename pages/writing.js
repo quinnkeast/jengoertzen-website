@@ -43,7 +43,7 @@ export default function Index({ allPosts }) {
         <>
           <div className="md:col-span-1 md:text-right">
             <span className="text-sm text-black-lighter inline-block leading-snug pr-8 mt-3">
-              FYI
+            &#182;
             </span>
           </div>
           <div className="md:col-span-2 md:col-start-2 border-opacity-10 md:mt-3 pb-3 md:flex md:flex-row justify-between">
