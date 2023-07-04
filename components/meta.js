@@ -4,6 +4,11 @@ import { HOME_OG_IMAGE_URL, SITE_NAME } from "../lib/constants";
 export default function Meta() {
   return (
     <Head>
+      <script
+        src="https://cdn.usefathom.com/script.js" 
+        data-site={process.env.FATHOM} 
+        defer
+      ></script>
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <title>{SITE_NAME}</title>
       <meta
