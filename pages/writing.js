@@ -48,7 +48,7 @@ export default function Index({ allPosts }) {
           </div>
           <div className="md:col-span-2 md:col-start-2 border-opacity-10 md:mt-3 pb-3 md:flex md:flex-row justify-between">
             <h2 className="m-0 text-sm leading-normal text-black-lighter font-serif md:pr-8 subpixel-antialiased">
-              I’m currently transferring pieces here from <a href="https://medium.com/@jennifergoertzen" target="_blank">my archive</a>. If you‘re looking for a piece that isn’t here, please <a href="mailto:jen@jengoertzen.com">contact me</a>.
+              I’m currently transferring pieces here from <a href="https://medium.com/@jennifergoertzen" target="_blank">my archive</a>. If you’re looking for a piece that isn’t here, please <a href="mailto:jen@jengoertzen.com">contact me</a>.
             </h2>
           </div>
         </>
