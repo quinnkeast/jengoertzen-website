@@ -9,7 +9,7 @@ export default function Reading({ booksByYear }) {
   return (
     <Layout>
       <Head>
-        <title>Reading List | {SITE_NAME}</title>
+        <title>{`Reading List | ${SITE_NAME}`}</title>
         <meta
           property="og:description"
           content={`What I’m reading and my opinions and all that.`}

@@ -8,7 +8,7 @@ export default function Footer() {
       </div>
       <div className="md:col-span-2 mb-4 md:mb-8">
         <p className="text-base md:text-2xl mb-2 md:mb-12 font-medium">
-          <a href="mailto:jen@caribou.co">jen@caribou.co</a>
+          <a href="mailto:jen@jengoertzen.com">jen@jengoertzen.com</a>
         </p>
         <div className="grid md:grid-cols-3">
           <div className="col-span-1">
@@ -23,7 +23,7 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-              <p className="text-xs italic m-0">I'm not active on the following platforms, but the history can still be valuable (or at least interesting):</p>
+              <p className="text-xs mt-2 text-black-lighter italic m-0">I'm not active on the following platforms, but the history can still be valuable (or at least interesting):</p>
               </li>
               <li>
                 <a href="http://twitter.com/jengoertzen" target="_blank">

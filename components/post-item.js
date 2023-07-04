@@ -5,7 +5,7 @@ export default function PostItem({ post, hero }) {
   return (
     <>
       <div className="md:col-span-1 md:text-right">
-        <span className="text-sm text-black-lighter inline-block leading-snug pr-8 mt-3.5">
+        <span className="text-sm text-black-lighter inline-block leading-snug pr-8 mt-3">
           <DateFormatter dateString={post.date} />
         </span>
       </div>

@@ -8,7 +8,7 @@ function Speaking() {
   return (
     <Layout>
       <Head>
-        <title>Speaking | {SITE_NAME}</title>
+        <title>{`Speaking | ${SITE_NAME}`}</title>
         <meta
           property="og:description"
           content={`Speaking at events around the world on exciting and inspiring topics.`}

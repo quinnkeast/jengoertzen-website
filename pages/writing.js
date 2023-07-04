@@ -12,7 +12,7 @@ export default function Index({ allPosts }) {
   return (
     <Layout>
       <Head>
-        <title>Writing | {SITE_NAME}</title>
+        <title>{`Writing | ${SITE_NAME}`}</title>
         <meta
           property="og:description"
           content={`A collection of thinking on user experience, design, and business.`}
@@ -34,15 +34,24 @@ export default function Index({ allPosts }) {
         <p className="leading-snug text-base md:text-2xl subpixel-antialiased mt-0 md:mt-2">
           A collection of thinking on user experience, design, and business.
         </p>
-        <p className="italic">
-        I'm transferring pieces from my archive to this page. If you‘re looking for a piece that isn't currently here, contact me at <a href="mailto:jen@caribou.co">jen@caribou.co</a>.
-        </p>
       </PageHeader>
       <div className="grid md:grid-cols-3 border-t border-black border-opacity-10 mt-6 md:mt-12 pt-0 post-list">
         <PostItem post={heroPost} hero={true} />
         {morePosts.map((post, i) => (
           <PostItem post={post} key={i} />
         ))}
+        <>
+          <div className="md:col-span-1 md:text-right">
+            <span className="text-sm text-black-lighter inline-block leading-snug pr-8 mt-3">
+              FYI
+            </span>
+          </div>
+          <div className="md:col-span-2 md:col-start-2 border-opacity-10 md:mt-3 pb-3 md:flex md:flex-row justify-between">
+            <h2 className="m-0 text-sm leading-normal text-black-lighter font-serif md:pr-8 subpixel-antialiased">
+              I’m currently transferring pieces here from <a href="https://medium.com/@jennifergoertzen" target="_blank">my archive</a>. If you‘re looking for a piece that isn’t here, please <a href="mailto:jen@jengoertzen.com">contact me</a>.
+            </h2>
+          </div>
+        </>
       </div>
     </Layout>
   );

@@ -24,7 +24,7 @@ export default function Post({ post, morePosts, preview }) {
         <>
           <article>
             <Head>
-              <title>{post.title}</title>
+              <title>{`${post.title} | ${SITE_NAME}`}</title>
               <meta
                 property="og:description"
                 content={post.description ? post.description : post.subtitle}
