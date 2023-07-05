@@ -68,9 +68,12 @@ function ReadMe() {
           </p>
           <p>
             <strong>Grow.</strong> We will always be learning. Be open to what
-            you don’t know that you don’t know when presented by others. Reflect
+            you don’t know when presented by others. Reflect
             on where you’ve come from—yesterday or last year—and what that means
             for where you’re going next.
+              </br> Note: Growth is also nurturing. Sometimes we don't want to—
+              or shouldn't—be moving to bigger and better. Sometimes better 
+                is where we are and taking care.
           </p>
           <hr />
           <h2 id="ethical-principles">Ethical Principles</h2>
