@@ -4,22 +4,26 @@
   books:
   - title: The Joy of Abstraction
     author: Eugenia Cheng
-    thoughts: The book is open but I've paused reading it.
+    thoughts: The book is open but I've paused reading it. I'm still intrigued and determined to read it, but need the brain space.
     reading: true
   - title: The Practice
     author: Seth Godin
     reading: true
-  - title: The Road
-    author: Cormac McCarthy
+  - title: The God of Endings
+    author: Jacqueline Holland
+    reading: true
+  - title: Green Grass, Running Water
+    author: Thomas King
     reading: true
   - title: The Creative Act
     author: Rick Rubin
-    thoughts: The book is open but I've paused reading it.
-    reading: true
-  - title: On The Shortness of Life
-    author: Seneca
-    thoughts: The book is open but I've paused reading it.
-    reading: true
+    thoughts: Good for bites of inspiration or little nudges into action.
+  - title: The Relentless Moon
+    author: Mary Robinette Kowal
+    thoughts: I had a cold while reading this and it affected how much I took in. But enjoyed it all the same. The acknowledgements at the end of each book in this series add to the satisfaction I take from them.
+  - title: The Road
+    author: Cormac McCarthy
+    thoughts: Stylized writing which gave a lot of power to the narrative.
   - title: The Fated Sky
     author: Mary Robinette Kowal
     thoughts: Felt good to be back in these books. Inhaled the book.
@@ -30,6 +34,9 @@
   - title: The Calculating Stars
     author: Mary Robinette Kowal
     thoughts: Really enjoyed it while at the same time found moments in it infruriating. Well researched, well written.
+  - title: On The Shortness of Life
+    author: Seneca
+    thoughts: Many sentences that struck me, particularly for where I am right now.
   - title: The Ferryman
     author: Justin Cronin
   - title: Sensitive
