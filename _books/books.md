@@ -11,10 +11,10 @@
     reading: true
   - title: The God of Endings
     author: Jacqueline Holland
-    reading: true
+    thoughts: The opening paragraph still sticks in my head.
   - title: Green Grass, Running Water
     author: Thomas King
-    reading: true
+    thoughts: I've grown to appreciate a new kind of storytelling through Thomas King.
   - title: The Creative Act
     author: Rick Rubin
     thoughts: Good for bites of inspiration or little nudges into action.
