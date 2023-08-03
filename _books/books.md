@@ -2,6 +2,9 @@
 
 - year: 2023
   books:
+  - title: The Vanished Birds
+    author: Simon Jimenez
+    reading: true
   - title: The Joy of Abstraction
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it. I'm still intrigued and determined to read it, but need the brain space.
