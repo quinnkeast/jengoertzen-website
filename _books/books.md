@@ -12,6 +12,9 @@
   - title: The Practice
     author: Seth Godin
     reading: true
+  - title: Shelterbelts
+    author: Jonathan Dyck
+    thoughts: A setting and cast of characters that is close to home. Difficult to read at times.
   - title: The God of Endings
     author: Jacqueline Holland
     thoughts: The opening paragraph still sticks in my head.
