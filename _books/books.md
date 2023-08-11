@@ -2,8 +2,11 @@
 
 - year: 2023
   books:
-  - title: The Vanished Birds
+  - title: The Spear Cuts Through Water
     author: Simon Jimenez
+    reading: true
+  - title: Under The Sky We Make
+    author: Kimberly A. Nicholas
     reading: true
   - title: The Joy of Abstraction
     author: Eugenia Cheng
@@ -12,6 +15,9 @@
   - title: The Practice
     author: Seth Godin
     reading: true
+  - title: The Vanished Birds
+    author: Simon Jimenez
+    thoughts: Fell into this book. There were some ideas that were beautiful for being perfect in the world created and their simplicity.
   - title: Shelterbelts
     author: Jonathan Dyck
     thoughts: A setting and cast of characters that is close to home. Difficult to read at times.
