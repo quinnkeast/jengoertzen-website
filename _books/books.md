@@ -2,8 +2,8 @@
 
 - year: 2023
   books:
-  - title: The Spear Cuts Through Water
-    author: Simon Jimenez
+  - title: Wool
+    author: Hugh Howey
     reading: true
   - title: Under The Sky We Make
     author: Kimberly A. Nicholas
@@ -15,6 +15,9 @@
   - title: The Practice
     author: Seth Godin
     reading: true
+  - title: The Spear Cuts Through Water
+    author: Simon Jimenez
+    thoughts: It reads like a legend.
   - title: The Vanished Birds
     author: Simon Jimenez
     thoughts: Fell into this book. There were some ideas that were beautiful for being perfect in the world created and their simplicity.
