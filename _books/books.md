@@ -2,7 +2,10 @@
 
 - year: 2023
   books:
-  - title: Wool
+  - title: Thistlefoot
+    author: GennaRose Nethercott
+    reading: true
+  - title: Shift
     author: Hugh Howey
     reading: true
   - title: Under The Sky We Make
@@ -15,9 +18,12 @@
   - title: The Practice
     author: Seth Godin
     reading: true
+  - title: Wool
+    author: Hugh Howey
+    thoughts: Read it too close to finishing the television series, "Silo", my memories muddled with what I was reading.
   - title: The Spear Cuts Through Water
     author: Simon Jimenez
-    thoughts: It reads like a legend.
+    thoughts: It reads like a legend. It was unlike anything I've read for so long, really, I don't have the words to describe it.
   - title: The Vanished Birds
     author: Simon Jimenez
     thoughts: Fell into this book. There were some ideas that were beautiful for being perfect in the world created and their simplicity.
