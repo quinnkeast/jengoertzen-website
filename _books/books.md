@@ -2,14 +2,8 @@
 
 - year: 2023
   books:
-  - title: Thistlefoot
-    author: GennaRose Nethercott
-    reading: true
   - title: Shift
     author: Hugh Howey
-    reading: true
-  - title: Under The Sky We Make
-    author: Kimberly A. Nicholas
     reading: true
   - title: The Joy of Abstraction
     author: Eugenia Cheng
@@ -18,6 +12,15 @@
   - title: The Practice
     author: Seth Godin
     reading: true
+  - title: Under The Sky We Make
+    author: Kimberly A. Nicholas
+    thoughts: Gave me some tools and lenses with which to look at our changing and often on fire world. I'm still sad, I'm still scared.
+  - title: Thistlefoot
+    author: GennaRose Nethercott
+    thoughts: Beautiful ideas about stories and how they interact with the world.
+  - title: It's Lonely at the Center of the Earth
+    author: Zoe Thorogood
+    thoughts: Love the multimedia approach. Also, "... Relatable is the word of the hour" because it's, well, relatable.
   - title: Wool
     author: Hugh Howey
     thoughts: Read it too close to finishing the television series, "Silo", my memories muddled with what I was reading.
