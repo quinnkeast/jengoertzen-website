@@ -5,6 +5,12 @@
   - title: Shift
     author: Hugh Howey
     reading: true
+  - title: The Ladies of Grace Adieu
+    author: Susanna Clarke
+    reading: true
+  - title: The Sacred Balance
+    author: David Sukuki
+    reading: true
   - title: The Joy of Abstraction
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it. I'm still intrigued and determined to read it, but need the brain space.
