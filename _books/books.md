@@ -23,7 +23,7 @@
     thoughts: Delightful, reads like classic fiction from a parallel world.
   - title: Shift
     author: Hugh Howey
-    reading: true
+    thoughts: Moving away from the show, enjoyed the variety in perspectives in this installment.
   - title: Under The Sky We Make
     author: Kimberly A. Nicholas
     thoughts: Gave me some tools and lenses with which to look at our changing and often on fire world. I'm still sad, I'm still scared.
