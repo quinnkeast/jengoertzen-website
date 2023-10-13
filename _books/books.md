@@ -2,11 +2,11 @@
 
 - year: 2023
   books:
-  - title: Shift
+  - title: Dust
     author: Hugh Howey
     reading: true
-  - title: The Ladies of Grace Adieu
-    author: Susanna Clarke
+  - title: Number9Dream
+    author: David Mitchell
     reading: true
   - title: The Sacred Balance
     author: David Sukuki
@@ -17,6 +17,12 @@
     reading: true
   - title: The Practice
     author: Seth Godin
+    reading: true
+  - title: The Ladies of Grace Adieu
+    author: Susanna Clarke
+    thoughts: Delightful, reads like classic fiction from a parallel world.
+  - title: Shift
+    author: Hugh Howey
     reading: true
   - title: Under The Sky We Make
     author: Kimberly A. Nicholas
