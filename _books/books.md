@@ -5,9 +5,6 @@
   - title: Dust
     author: Hugh Howey
     reading: true
-  - title: Number9Dream
-    author: David Mitchell
-    reading: true
   - title: The Sacred Balance
     author: David Sukuki
     reading: true
@@ -18,6 +15,9 @@
   - title: The Practice
     author: Seth Godin
     reading: true
+  - title: Number9Dream
+    author: David Mitchell
+    thoughts: A more experimental read. I wasn't in the best headspace for experiments, sadly.
   - title: The Ladies of Grace Adieu
     author: Susanna Clarke
     thoughts: Delightful, reads like classic fiction from a parallel world.
