@@ -2,8 +2,8 @@
 
 - year: 2023
   books:
-  - title: Dust
-    author: Hugh Howey
+  - title: The Cartographers
+    author: Peng Shepherd
     reading: true
   - title: The Sacred Balance
     author: David Sukuki
@@ -15,6 +15,8 @@
   - title: The Practice
     author: Seth Godin
     reading: true
+  - title: Dust
+    author: Hugh Howey
   - title: Number9Dream
     author: David Mitchell
     thoughts: A more experimental read. I wasn't in the best headspace for experiments, sadly.
