@@ -2,8 +2,11 @@
 
 - year: 2023
   books:
-  - title: The Cartographers
-    author: Peng Shepherd
+  - title: The Blighted Stars
+    author: Megan O’Keefe
+    reading: true
+  - title: Several short sentences about writing
+    author: Verlyn Klinkenborg
     reading: true
   - title: The Sacred Balance
     author: David Sukuki
@@ -12,9 +15,11 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it. I'm still intrigued and determined to read it, but need the brain space.
     reading: true
+  - title: The Cartographers
+    author: Peng Shepherd
+    thoughts: I am a sucker for books about people being nerdy on a topic.
   - title: The Practice
     author: Seth Godin
-    reading: true
   - title: Dust
     author: Hugh Howey
   - title: Number9Dream
