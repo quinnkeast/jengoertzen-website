@@ -393,6 +393,9 @@
     thoughts: Lovely, bought copies for multiple people.
   - title: If It Bleeds
     author: Stephen King
+  - title: Once upon a river
+    author: Diane Setterfield
+    thoughts: Beautiful book. Was exactly what I needed.
   - title: Cage of Souls
     author: Adrian Tchaikovsky
     thoughts: A favourite, I've gifted it a few times now.
