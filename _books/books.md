@@ -2,7 +2,7 @@
 
 - year: 2023
   books:
-  - title: The Blighted Stars
+  - title: The Fractured Dark
     author: Megan O’Keefe
     reading: true
   - title: Several short sentences about writing
@@ -15,11 +15,15 @@
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it. I'm still intrigued and determined to read it, but need the brain space.
     reading: true
+  - title: The Blighted Stars
+    author: Megan O’Keefe
+    thoughts: Fell into it. On the list of favourites from this year.
   - title: The Cartographers
     author: Peng Shepherd
     thoughts: I am a sucker for books about people being nerdy on a topic.
   - title: The Practice
     author: Seth Godin
+    thoughts: Some good nudges that helped me get back to creative work.
   - title: Dust
     author: Hugh Howey
   - title: Number9Dream
