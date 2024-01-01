@@ -4,7 +4,7 @@
   - title: The Fractured Dark
     author: Megan O’Keefe
     reading: true
-  - title: Winter: Five Windows on the Season - CBC Massey Lectures
+  - title: "Winter: Five Windows on the Season - CBC Massey Lectures"
     author: Adam Gopnick
     reading: true
   - title: Study for obedience
