@@ -1,20 +1,24 @@
 ---
-
-- year: 2023
+- year: 2024
   books:
   - title: The Fractured Dark
     author: Megan O’Keefe
     reading: true
+  - title: Winter: Five Windows on the Season - CBC Massey Lectures
+    author: Adam Gopnick
+    reading: true
+  - title: Study for obedience
+    author: Sarah Bernstein
+    reading: true
+- year: 2023
+  books:
   - title: Several short sentences about writing
     author: Verlyn Klinkenborg
-    reading: true
   - title: The Sacred Balance
     author: David Sukuki
-    reading: true
   - title: The Joy of Abstraction
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it. I'm still intrigued and determined to read it, but need the brain space.
-    reading: true
   - title: The Blighted Stars
     author: Megan O’Keefe
     thoughts: Fell into it. On the list of favourites from this year.
