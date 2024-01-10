@@ -1,21 +1,26 @@
 ---
 - year: 2024
   books:
-  - title: The Fractured Dark
-    author: Megan O’Keefe
+  - title: Ascension
+    author: Nicholas Binge
     reading: true
   - title: "Winter: Five Windows on the Season - CBC Massey Lectures"
     author: Adam Gopnick
     reading: true
-  - title: Study for obedience
-    author: Sarah Bernstein
-    reading: true
+  - title: Nettle & Bone
+    author: T. Kingfisher
+    thoughts: A new fairy tale and a great one. Absolutely loved it.
+  - title: The Fractured Dark
+    author: Megan O’Keefe
+    thoughts: Really enjoyed it as a continuation of the story.
 - year: 2023
   books:
   - title: Several short sentences about writing
     author: Verlyn Klinkenborg
+    thoughts: Many good nudges that have helped me reframe what I'm doing or why I'm stuck.
   - title: The Sacred Balance
     author: David Sukuki
+    thoughts: A lens that zooms in and zooms out to give you the details to appreciate the big picture.
   - title: The Joy of Abstraction
     author: Eugenia Cheng
     thoughts: The book is open but I've paused reading it. I'm still intrigued and determined to read it, but need the brain space.
