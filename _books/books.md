@@ -1,12 +1,15 @@
 ---
 - year: 2024
   books:
-  - title: Ascension
-    author: Nicholas Binge
-    reading: true
   - title: "Winter: Five Windows on the Season - CBC Massey Lectures"
     author: Adam Gopnick
     reading: true
+  - title: Shubeik Lubeik
+    author: Deeba Mohamed
+    thoughts: Beautifully done, art and story both.
+  - title: Ascension
+    author: Nicholas Binge
+    thoughts: Quick and captivating read.
   - title: Nettle & Bone
     author: T. Kingfisher
     thoughts: A new fairy tale and a great one. Absolutely loved it.
