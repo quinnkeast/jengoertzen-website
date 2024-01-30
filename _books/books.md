@@ -1,9 +1,12 @@
 ---
 - year: 2024
   books:
+  - title: Fevre Dream
+    author: George R. R. Martin
+    reading: true
   - title: Sword Catcher
     author: Cassandra Clare
-    reading: true
+    thoughts: Enjoyed it much more than I expected. Both excited that there'll be more to come and disappointed that I couldn't get the rest of the story immediately.
   - title: "Rare Flavours, books 1–3"
     author: "Ram V (Author), Filipe Andrade (Illustrator)"
     thoughts: "In love with the artwork: the lines, the shapes, the colours. The story is also fantastic, looking forward to future instalments."
