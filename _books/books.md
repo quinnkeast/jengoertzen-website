@@ -6,7 +6,7 @@
     reading: true
   - title: "Rare Flavours, books 1–3"
     author: "Ram V (Author), Filipe Andrade (Illustrator)"
-    thoughts: In love with the artwork: the lines, the shapes, the colours. The story is also fantastic, looking forward to future instalments.
+    thoughts: "In love with the artwork: the lines, the shapes, the colours. The story is also fantastic, looking forward to future instalments."
   - title: "Winter: Five Windows on the Season - CBC Massey Lectures"
     author: Adam Gopnick
     thoughts: Paused, not the write prose for me these days.
