@@ -4,6 +4,12 @@
   - title: Fevre Dream
     author: George R. R. Martin
     reading: true
+  - title: Quiet
+    author: Susan Cain
+    reading: true
+  - title: In the Company of Women
+    author: Grace Bonney
+    thoughts: Had a copy in the past, got another to have on hand for moments of inspiration.
   - title: Sword Catcher
     author: Cassandra Clare
     thoughts: Enjoyed it much more than I expected. Both excited that there'll be more to come and disappointed that I couldn't get the rest of the story immediately.
