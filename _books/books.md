@@ -20,7 +20,7 @@
     thoughts: "In love with the artwork: the lines, the shapes, the colours. The story is also fantastic, looking forward to future instalments."
   - title: "Winter: Five Windows on the Season - CBC Massey Lectures"
     author: Adam Gopnick
-    thoughts: Paused, not the write prose for me these days.
+    thoughts: Paused, not the right prose for me these days.
   - title: Shubeik Lubeik
     author: Deeba Mohamed
     thoughts: Beautifully done, art and story both.
