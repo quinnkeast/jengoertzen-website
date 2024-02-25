@@ -1,12 +1,14 @@
 ---
 - year: 2024
   books:
+  - title: The Tainted Cup
+    author: Robert Jackson Bennett
+    reading: true
   - title: Fevre Dream
     author: George R. R. Martin
-    reading: true
   - title: Quiet
     author: Susan Cain
-    reading: true
+    thoughts: I related to many stories in the book, lots to reflect on and put into use.
   - title: In the Company of Women
     author: Grace Bonney
     thoughts: Had a copy in the past, got another to have on hand for moments of inspiration.
