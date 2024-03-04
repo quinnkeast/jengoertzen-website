@@ -1,9 +1,15 @@
 ---
 - year: 2024
   books:
-  - title: The Tainted Cup
+  - title: Locklands
     author: Robert Jackson Bennett
     reading: true
+  - title: "Research for People Who (Think They) Would Rather Create"
+    author: Dirk Vis
+    reading: true
+  - title: The Tainted Cup
+    author: Robert Jackson Bennett
+    thoughts: Great read. One of the best books I've read in a long while.
   - title: Fevre Dream
     author: George R. R. Martin
   - title: Quiet
