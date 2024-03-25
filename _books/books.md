@@ -1,12 +1,21 @@
 ---
 - year: 2024
   books:
+  - title: Seeing like a state
+    author: "James C. Scott"
+    reading: true
+  - title: Red Side Story
+    author: Jasper Fforde
+    reading: true
+  - title: Holly
+    author: Stephen King
+    thoughts: Always enjoy returning to this character.
   - title: Locklands
     author: Robert Jackson Bennett
-    reading: true
+    thoughts: Abandoned, wasn't what I was looking for at the moment.
   - title: "Research for People Who (Think They) Would Rather Create"
     author: Dirk Vis
-    reading: true
+    thoughts: Nice resource for thinking about research projects, will be coming back to it.
   - title: The Tainted Cup
     author: Robert Jackson Bennett
     thoughts: Great read. One of the best books I've read in a long while.
