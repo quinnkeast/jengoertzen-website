@@ -4,9 +4,12 @@
   - title: Seeing like a state
     author: "James C. Scott"
     reading: true
+  - title: Black River Orchard
+    author: Chuck Wendig
+    reading: true
   - title: Red Side Story
     author: Jasper Fforde
-    reading: true
+    thoughts: Peculiar and good.
   - title: Holly
     author: Stephen King
     thoughts: Always enjoy returning to this character.
