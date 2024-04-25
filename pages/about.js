@@ -50,9 +50,9 @@ function About() {
           </p>
 
           <p>
-            Above all, I aim to do good. My work exists to support people
-            in their endeavours, no matter how big or small. Read more about what drives me and how I work on my {" "}
-            <Link href="/readme">ReadMe</Link>.
+            Above all, I aim to do good. My work exists to support people in
+            their endeavours, no matter how big or small. Read more about what
+            drives me and how I work on my <Link href="/readme">ReadMe</Link>.
           </p>
 
           <p>
@@ -96,80 +96,148 @@ function About() {
       </div>
       <div className="grid md:grid-cols-3 border-t border-black border-opacity-10 mt-12 pt-8">
         <div className="col-span-1">
-          <h2 className="font-medium text-base text-black-lighter">Timeline</h2>
+          <h2 className="font-normal text-base text-black-lighter">Timeline</h2>
         </div>
-        <div className="md:col-span-2">
-          <p>
+        <div className="md:col-span-2 mt-1">
+          <p className="mb-5">
             <strong>BRYTER</strong> / No Code Automation
             <br />
-            VP of User Experience
-            <br />
-            2021 – Present
-            <br />
-            Product Designer
-            <br />
-            2020
+            <span className="text-black-lighter text-xs inline-block mb-0.5">
+              Berlin • Remote
+            </span>
+            <div className="grid grid-cols-5">
+              <div className="text-black-lighter col-span-2 md:col-span-1">
+                2021 – 2023
+              </div>
+              <div className="col-span-3 md:col-span-4">
+                VP of User Experience
+              </div>
+            </div>
+            <div className="grid grid-cols-5">
+              <div className="text-black-lighter col-span-2 md:col-span-1">
+                2020 – 2021
+              </div>
+              <div className="col-span-3 md:col-span-4">
+                Staff Product Designer
+              </div>
+            </div>
           </p>
-          <p>
-            <strong>Caribou</strong> / Strategy &amp; Design Consultancy
+          <p className="mb-5">
+            <strong>Caribou</strong> / Strategy & Design Consultancy
             <br />
-            UX &amp; Product Designer, Partner
-            <br />
-            2011 – Present
+            <span className="text-black-lighter text-xs inline-block mb-0.5">
+              Remote
+            </span>
+            <div className="grid grid-cols-5">
+              <div className="text-black-lighter col-span-2 md:col-span-1">
+                2011 – Present
+              </div>
+              <div className="col-span-3 md:col-span-4">
+                UX & Product Designer, Partner
+              </div>
+            </div>
           </p>
-          <p>
+          <p className="mb-5">
             <strong>IDAGIO</strong> / Classical Music Streaming
             <br />
-            Staff Product Designer
-            <br />
-            2020
-            <br />
-            Senior Product Designer
-            <br />
-            2019 – 2020
+            <span className="text-black-lighter text-xs inline-block mb-0.5">
+              Berlin • Hybrid
+            </span>
+            <div className="grid grid-cols-5">
+              <div className="text-black-lighter col-span-2 md:col-span-1">
+                2020
+              </div>
+              <div className="col-span-3 md:col-span-4">
+                Staff Product Designer
+              </div>
+            </div>
+            <div class="grid grid-cols-5">
+              <div className="text-black-lighter col-span-2 md:col-span-1">
+                2019 – 2020
+              </div>
+              <div className="col-span-3 md:col-span-4">
+                Senior Product Designer
+              </div>
+            </div>
           </p>
-          <p>
+          <p className="mb-5">
             <strong>Wire</strong> / Secure Messaging & Collaboration
             <br />
-            UX Lead
-            <br />
-            2018 – 2019
+            <span className="text-black-lighter text-xs inline-block mb-0.5">
+              Berlin • Hybrid
+            </span>
+            <div className="grid grid-cols-5">
+              <div className="text-black-lighter col-span-2 md:col-span-1">
+                2018 – 2019
+              </div>
+              <div class="col-span-3 md:col-span-4">UX Lead</div>
+            </div>
           </p>
-          <p>
+          <p className="mb-5">
             <strong>iQMetrix</strong> / Customer Experience Solutions
             <br />
-            UX Lead
-            <br />
-            2015 – 2018
+            <span className="text-black-lighter text-xs inline-block mb-0.5">
+              Canada
+            </span>
+            <div class="grid grid-cols-5">
+              <div className="text-black-lighter col-span-2 md:col-span-1">
+                2015 – 2018
+              </div>
+              <div class="col-span-3 md:col-span-4">UX Lead</div>
+            </div>
           </p>
-          <p>
+          <p className="mb-5">
             <strong>UX Lab</strong> / UX & Usability Testing Space
             <br />
-            Co-Founder
-            <br />
-            2017 – 2018
+            <span className="text-black-lighter text-xs inline-block mb-0.5">
+              Canada
+            </span>
+            <div class="grid grid-cols-5">
+              <div className="text-black-lighter col-span-2 md:col-span-1">
+                2017 – 2018
+              </div>
+              <div class="col-span-3 md:col-span-4">Co-Founder</div>
+            </div>
           </p>
-          <p>
-            <strong>UX Winnipeg</strong> / Events &amp; Community Organization
+          <p className="mb-5">
+            <strong>UX Winnipeg</strong> / Events & Community Organization
             <br />
-            Co-Founder
-            <br />
-            2017 – 2018
+            <span className="text-black-lighter text-xs inline-block mb-0.5">
+              Canada
+            </span>
+            <div class="grid grid-cols-5">
+              <div class="text-black-lighter col-span-2 md:col-span-1">
+                2017 – 2018
+              </div>
+              <div class="col-span-3 md:col-span-4">Co-Founder</div>
+            </div>
           </p>
-          <p>
+          <p className="mb-5">
             <strong>Investor’s Group</strong> / Financial Planning & Advisor
-            Serices
+            Services
             <br />
-            UX Designer
-            <br />
-            2015
+            <span className="text-black-lighter text-xs inline-block mb-0.5">
+              Canada
+            </span>
+            <div class="grid grid-cols-5">
+              <div class="text-black-lighter col-span-2 md:col-span-1">
+                2015
+              </div>
+              <div class="col-span-3 md:col-span-4">UX Designer</div>
+            </div>
           </p>
-          <p>
+          <p className="mb-5">
             <strong>Tipping Canoe</strong> / Consumer Mobile App Shop
             <br />
-            Mobile App UX Designer
-            <br />
-            2011 – 2015
+            <span className="text-black-lighter text-xs inline-block mb-0.5">
+              Canada
+            </span>
+            <div class="grid grid-cols-5">
+              <div class="text-black-lighter col-span-2 md:col-span-1">
+                2011 – 2015
+              </div>
+              <div class="col-span-3 md:col-span-4">UX Designer</div>
+            </div>
           </p>
         </div>
       </div>
@@ -203,7 +271,7 @@ function About() {
               <a href="http://www.enotecarestaurant.ca/" target="_blank">
                 Enoteca
               </a>
-              . Follow my latest paintings on {" "}
+              . Follow my latest paintings on{" "}
               <a href="https://www.instagram.com/jengoertzen/" target="_blank">
                 Instagram
               </a>
@@ -217,12 +285,13 @@ function About() {
             </li>
             <li>
               Reading: Latest reads posted in{" "}
-              <Link href="/reading">Reading</Link> and those I most recommend in {" "}
+              <Link href="/reading">Reading</Link> and those I most recommend in{" "}
               <Link href="/favourites">Favourites</Link>.
             </li>
           </ul>
           <p>
-            I love to learn and I can’t keep it to only one topic. Ask me how pottery and learning German are going, if you’re keen.
+            I love to learn and I can’t keep it to only one topic. Ask me how
+            pottery and learning German are going, if you’re keen.
           </p>
         </div>
       </div>

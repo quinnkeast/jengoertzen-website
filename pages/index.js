@@ -13,16 +13,12 @@ export default function Home() {
           <h1 className="mb-4 md:mb-8 text-4xl md:text-5xl leading-none md:leading-none">
             Jen Goertzen is a human experience designer & leader.
           </h1>
-          <h2 className="text-base md:text-2xl font-light tracking-snug leading-tight md:leading-tight">
-            VP of User Experience at{" "}
-            <a href="https://bryter.io" target="_blank">
-              BRYTER
-            </a>
-            . Also Partner at{" "}
+          <h2 className="text-base md:text-xl font-light tracking-snug leading-tight md:leading-tight">
+            Staff product designer. Partner at{" "}
             <a href="https://caribou.co" target="_blank">
               Caribou
             </a>
-            .
+            . Also writing a book on onboarding to new teams.
           </h2>
           <div className="grid md:grid-cols-3 mt-2 md:mt-8">
             <div className="col-1">
