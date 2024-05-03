@@ -4,6 +4,9 @@
   - title: Seeing like a state
     author: "James C. Scott"
     reading: true
+  - title: Butter
+    author: Asako Yuzuki
+    reading: true
   - title: Black River Orchard
     author: Chuck Wendig
     reading: true
