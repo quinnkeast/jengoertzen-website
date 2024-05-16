@@ -7,9 +7,15 @@
   - title: Butter
     author: Asako Yuzuki
     reading: true
+  - title: Shades of Grey
+    author: Jasper Fforde
+    reading: true
+  - title: Wintering
+    author: Katherine May
+    reading: true
   - title: Black River Orchard
     author: Chuck Wendig
-    reading: true
+    thoughts: Abandoned, wasn't what I was looking for at the moment.
   - title: Red Side Story
     author: Jasper Fforde
     thoughts: Peculiar and good.
