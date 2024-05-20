@@ -4,15 +4,15 @@
   - title: Seeing like a state
     author: "James C. Scott"
     reading: true
-  - title: Butter
-    author: Asako Yuzuki
-    reading: true
   - title: Shades of Grey
     author: Jasper Fforde
     reading: true
   - title: Wintering
     author: Katherine May
     reading: true
+  - title: Butter
+    author: Asako Yuzuki
+    thoughts: "Devoured it (pun intended)."
   - title: Black River Orchard
     author: Chuck Wendig
     thoughts: Abandoned, wasn't what I was looking for at the moment.
