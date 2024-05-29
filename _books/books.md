@@ -4,12 +4,18 @@
   - title: Seeing like a state
     author: "James C. Scott"
     reading: true
-  - title: Shades of Grey
-    author: Jasper Fforde
+  - title: Ghost Station
+    author: "S. A. Barnes"
+    reading: true
+  - title: Trio
+    author: Johanna Hedman
     reading: true
   - title: Wintering
     author: Katherine May
     reading: true
+  - title: Shades of Grey
+    author: Jasper Fforde
+    thoughts: Wish I had read this first, as you're meant to.
   - title: Butter
     author: Asako Yuzuki
     thoughts: "Devoured it (pun intended)."
